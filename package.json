@@ -13,5 +13,8 @@
     "del": "^6.0.0",
     "gulp": "^4.0.2",
     "gulp-file-include": "^2.3.0"
+  },
+  "dependencies": {
+    "gulp-html-beautify": "^1.0.1"
   }
 }
